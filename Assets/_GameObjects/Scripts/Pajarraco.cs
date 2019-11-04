@@ -59,7 +59,7 @@ public class Pajarraco : MonoBehaviour
     {
         bool estaPulsado = false;
         Vector3 realTouchPos = Camera.main.ScreenToWorldPoint(touch.position);
-        RaycastHit2D rch2d = Physics2D.Raycast(Camera.main.transform.position, realTouchPos);
+        RaycastHit2D rch2d = Physics2D.Raycast(Camera.main.transform.position, realTouchPos-Camera.main.transform.position);
         if((rch2d.collider != null) && (rch2d.transform.gameObject.CompareTag("Player")))
         {
             estaPulsado = true;
