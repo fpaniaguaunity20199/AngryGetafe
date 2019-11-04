@@ -1,0 +1,1303 @@
+fileFormatVersion: 2
+guid: 07fb29d81fddc2143a529fb798dc4275
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2533502270473708393
+    second: pajarracos_0
+  - first:
+      213: 6604028880144400297
+    second: pajarracos_1
+  - first:
+      213: -3818741250971157337
+    second: pajarracos_2
+  - first:
+      213: -7674229519323912362
+    second: pajarracos_3
+  - first:
+      213: 4116928531640529809
+    second: pajarracos_4
+  - first:
+      213: -7614267463745860322
+    second: pajarracos_5
+  - first:
+      213: 5167863442132933948
+    second: pajarracos_6
+  - first:
+      213: 3191505146883874014
+    second: pajarracos_7
+  - first:
+      213: 6653357712943262618
+    second: pajarracos_8
+  - first:
+      213: 4550150292161624871
+    second: pajarracos_9
+  - first:
+      213: 3781746343691522581
+    second: pajarracos_10
+  - first:
+      213: -2371160683662156168
+    second: pajarracos_11
+  - first:
+      213: -7265599713226622547
+    second: pajarracos_12
+  - first:
+      213: 2232622824778844844
+    second: pajarracos_13
+  - first:
+      213: -3105980611743955433
+    second: pajarracos_14
+  - first:
+      213: -2453313598838068205
+    second: pajarracos_15
+  - first:
+      213: -7610804026649450982
+    second: pajarracos_16
+  - first:
+      213: 2865611217617347062
+    second: pajarracos_17
+  - first:
+      213: -2406967736682301847
+    second: pajarracos_18
+  - first:
+      213: -7520458896736829824
+    second: pajarracos_19
+  - first:
+      213: -8686095865097543936
+    second: pajarracos_20
+  - first:
+      213: -2125189485583923647
+    second: pajarracos_21
+  - first:
+      213: 4506702476357621594
+    second: pajarracos_22
+  - first:
+      213: 61384958692927382
+    second: pajarracos_23
+  - first:
+      213: -4434154946803445756
+    second: pajarracos_24
+  - first:
+      213: -936218484150848764
+    second: pajarracos_25
+  - first:
+      213: 6888926444160703937
+    second: pajarracos_26
+  - first:
+      213: -4131655579728431091
+    second: pajarracos_27
+  - first:
+      213: -4187014031431609193
+    second: pajarracos_28
+  - first:
+      213: 6342224325293368320
+    second: pajarracos_29
+  - first:
+      213: 3314543134313356037
+    second: pajarracos_30
+  - first:
+      213: 4942476801862054574
+    second: pajarracos_31
+  - first:
+      213: 722397039322660904
+    second: pajarracos_32
+  - first:
+      213: -3679178476642982810
+    second: pajarracos_33
+  - first:
+      213: 4458076115838749981
+    second: pajarracos_34
+  - first:
+      213: 2783453253993736670
+    second: pajarracos_35
+  - first:
+      213: -7259322111055231535
+    second: pajarracos_36
+  - first:
+      213: -2861729892363171126
+    second: pajarracos_37
+  - first:
+      213: -3723552827292747612
+    second: pajarracos_38
+  - first:
+      213: 515467414022134706
+    second: pajarracos_39
+  - first:
+      213: -8569594342026766089
+    second: pajarracos_40
+  - first:
+      213: -4904253546913088873
+    second: pajarracos_41
+  - first:
+      213: 5509605447644579678
+    second: pajarracos_42
+  - first:
+      213: 9201358443320244392
+    second: pajarracos_43
+  - first:
+      213: -7417865292536821224
+    second: pajarracos_44
+  - first:
+      213: -5361787374626117995
+    second: pajarracos_45
+  - first:
+      213: -2884671526843573866
+    second: pajarracos_46
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pajarracos_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 468
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c265214d97a4ab499933d12e1223a7a
+      internalID: 2533502270473708393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 468
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7437dbf38a3affd4ba4b192043fb414c
+      internalID: 6604028880144400297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 468
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c056a32aed1ec64b9791eb929ad2ecf
+      internalID: -3818741250971157337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_3
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 476
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5d30113cf18574c8124c2557adea93
+      internalID: -7674229519323912362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_4
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 475
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f480b2b41574f41aa8d31d8891fa6f
+      internalID: 4116928531640529809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_5
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 483
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f02b41d25ce8a4386cd647e47ec0ca
+      internalID: -7614267463745860322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 358
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085a4248996bc1d43b2b6def6fac91e5
+      internalID: 5167863442132933948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 365
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6760575956238804d97895275b20a03b
+      internalID: 3191505146883874014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_8
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 390
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e082357c1a6b5b245846492378260284
+      internalID: 6653357712943262618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 390
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccffa6ccbba1d824f9b2abe1be00f0df
+      internalID: 4550150292161624871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_10
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 390
+        width: 102
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f544004674354c4e8ee57f6875aa993
+      internalID: 3781746343691522581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_11
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 417
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d42f9e1d9951e741bb52bd62dd02f75
+      internalID: -2371160683662156168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_12
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 382
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca12f3eb9e823c4482fd46bdaf890db
+      internalID: -7265599713226622547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 248
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e55b1c9078c454cbb0935b924bb53e
+      internalID: 2232622824778844844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 262
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0755486af4d596e4ba28a97c629281a4
+      internalID: -3105980611743955433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_15
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 296
+        width: 102
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bd09fe495fdb74d97b370c831a4659
+      internalID: -2453313598838068205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_16
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 281
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4728ce90937547d489b543255c361ae1
+      internalID: -7610804026649450982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_17
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 279
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c691f6decaf39414aa5c5cd9f93269d4
+      internalID: 2865611217617347062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_18
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 279
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acb2866aeb20b94fb1401e3ce16e0f4
+      internalID: -2406967736682301847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_19
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 323
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36066c4fbc7dad748961b644e22f07f6
+      internalID: -7520458896736829824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_20
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 288
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f08d45097413c642b2694547b09302f
+      internalID: -8686095865097543936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 159
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c4669641b11054dbf067330ca830db
+      internalID: -2125189485583923647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 202
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4750ef13215bcc4f97fa8b2e91a39ae
+      internalID: 4506702476357621594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_23
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 186
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b921e5b0073641c4c83590a24bd14b06
+      internalID: 61384958692927382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_24
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 188
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48074ce36643af949983ff74952a834b
+      internalID: -4434154946803445756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_25
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 186
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629749d200d10ac45b2d285dce3ec69e
+      internalID: -936218484150848764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_26
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 230
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479fd146a6c0d3f4baeadebc4f4503ad
+      internalID: 6888926444160703937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 138
+        width: 83
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285cd19ddebd8824eae21517156f8d3e
+      internalID: -4131655579728431091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_28
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 195
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9e55736f6702f459828318262cfe60
+      internalID: -4187014031431609193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_29
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 81
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b100938aa1d57934ebe33c2a01fc5847
+      internalID: 6342224325293368320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_30
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 92
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976ebf38f88b045419273b4d22a61001
+      internalID: 3314543134313356037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_31
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 95
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8962f70b6bd974da2276696dc4a853
+      internalID: 4942476801862054574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_32
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 132
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76eb4bfece0e35948a262d2eea0dc55e
+      internalID: 722397039322660904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 133
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a5a72612bde2448976a0ed80c9949f
+      internalID: -3679178476642982810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_34
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 137
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8e923a69a2e2f4ca25b83d8f16f7f9
+      internalID: 4458076115838749981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 28
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8138fa43d029c489bb2c27ef03b617
+      internalID: 2783453253993736670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_36
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 36
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1b499fceaf821488924b8f0411efe1
+      internalID: -7259322111055231535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_37
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8dcfff45444f04abc70b683c63f0a6
+      internalID: -2861729892363171126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 75
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7df70ce1257a214b97ef0cad5d69749
+      internalID: -3723552827292747612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_39
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 72
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd4482bfb84b1948a73625b63e7f44a
+      internalID: 515467414022134706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_40
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 80
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665df50f0e760914ea05568c09087e26
+      internalID: -8569594342026766089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_41
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 8
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fa324edba90e94fb71c4e215f884a3
+      internalID: -4904253546913088873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 14
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631c67066cce90c4f915c9ef9e6eed34
+      internalID: 5509605447644579678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_43
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 21
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a44f2655db982449ca9e175ec1baeb
+      internalID: 9201358443320244392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_44
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 38
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510c103b60daf42429f37a34d6334bed
+      internalID: -7417865292536821224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_45
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 38
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096e38b895efc594ebfd7b2ed0ddd682
+      internalID: -5361787374626117995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pajarracos_46
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dab09b69f6d7a4d81014a3e8e31296
+      internalID: -2884671526843573866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
