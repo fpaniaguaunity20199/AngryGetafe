@@ -4,10 +4,12 @@ using UnityEngine;
 
 public class Pajarraco : MonoBehaviour
 {
+    public GameObject buttonLevel;
     public float force;
     private Touch touch;
     private Vector2 posIni;
     private bool pajarracoPulsado = false;
+    private float timeToRestore = 5f;
     void Update()
     {
         Touch[] touches = Input.touches;
@@ -53,6 +55,8 @@ public class Pajarraco : MonoBehaviour
             Vector2 direccion = posIni - posFinal;
             GetComponent<Rigidbody2D>().isKinematic = false;
             GetComponent<Rigidbody2D>().AddForce(direccion * force);
+            pajarracoPulsado = false;
+            Invoke("RestorePosition", timeToRestore);
         }
     }
     private bool PulsandoSobreElPajarraco()
@@ -65,5 +69,29 @@ public class Pajarraco : MonoBehaviour
             estaPulsado = true;
         }
         return estaPulsado;
+    }
+    private void RestorePosition()
+    {
+        if (!AreAllObjectsDestroyed())
+        {
+            transform.position = posIni;
+            GetComponent<Rigidbody2D>().isKinematic = true;
+            GetComponent<Rigidbody2D>().velocity = Vector3.zero;
+            GetComponent<Rigidbody2D>().angularVelocity = 0f;
+            transform.rotation = Quaternion.identity;
+        } else {
+            //MOSTRAR EL CARTEL DE NIVEL SUPERADO
+            buttonLevel.SetActive(true);
+        }
+        
+    }
+    private bool AreAllObjectsDestroyed()
+    {
+        int objectsInScene = GameObject.FindGameObjectsWithTag("Destroyed").Length;
+        if (objectsInScene > 0)
+        {
+            return false;
+        }
+        return true;
     }
 }
